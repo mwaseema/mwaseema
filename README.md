@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Waseem.
+- 🌱 I've MS in Computer Science with research in Computer Vision and Machine/Deep Learning.
+- 📝 I have a research paper published in CVPR (Computer Vision and Pattern Recognition)
+- 👀 I’m interested in AI and building stuff in the technology world.
+- 👷 Currently working as Software/Research Engineer for vision at Motive.
+- 📫 Reach me at mohammadwaseem043 [at] gmail.com.
